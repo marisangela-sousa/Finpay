@@ -1,4 +1,4 @@
-Este é um projeto com a unica finalidade de relembrar conceitos do React. Feito a parti de um design do Dribbble: https://dribbble.com/shots/24820686-Finpay-Fintech-Landing-Page
+Este é um projeto com a unica finalidade de relembrar conceitos do React. Feito a partir de um design do Dribbble: https://dribbble.com/shots/24820686-Finpay-Fintech-Landing-Page
 
 ## Getting Started
 
