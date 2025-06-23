@@ -1,0 +1,30 @@
+footer{
+    background-color: #F4F9F8;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 2fr;
+    margin: 2% 0;
+    gap: 30px;
+    padding: 5% 7%;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15%;
+    color: #013146;
+}
+
+li{
+    list-style: none;
+    color: #838b99;
+    margin-bottom: 5%;
+}
+
+.redes-sociais{
+    justify-self: end;
+}
+
+.redes-sociais p{
+    font-size: 14px;
+    margin-bottom: 10px;
+}

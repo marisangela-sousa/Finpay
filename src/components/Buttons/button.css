@@ -1,0 +1,23 @@
+.buttons{
+    min-width: 100px;
+    height: 40px;
+    padding: 0 20px;
+    margin: 0 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.buttons a{
+    font-size: 14px;
+}
+.primary-button{
+    border: none;
+    background-color: #2A8F9E;
+}
+.primary-button a{
+    color: white;
+}
+
+.outlined-button{
+    border: 1px solid gray;
+    background-color: transparent;
+}
